@@ -25,6 +25,10 @@ import androidx.compose.ui.graphics.Color
 import androidx.navigation.NavController
 import kotlinx.coroutines.delay
 
+/*
+How you can easily create a splash screen in compose with a cool overshoot animation.
+https://www.youtube.com/watch?v=GhNwvGePTbY&list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC&index=20
+ */
 // Classe que representa a atividade principal da aplicação, estendendo ComponentActivity.
 class MainActivity : ComponentActivity() {
     // Sobrescreve o método onCreate para inicializar a atividade quando ela é criada.
